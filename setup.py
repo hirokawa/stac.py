@@ -37,7 +37,7 @@ tests_require = [
 
 examples_require = [
     'matplotlib>=3.1',
-    'numpy>=1.18'
+    'numpy>=1.18',
     'rasterio>=1.1',
 ]
 
